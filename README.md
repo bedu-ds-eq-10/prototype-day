@@ -2,6 +2,6 @@
 Intraday trading
 
 ## Team 9
-- Lourdes Guerrero Guerrero,
-- Marcos Cuellar Comas y
+- Lourdes Guerrero Guerrero
+- Marcos Cuellar Comas
 - Jorge Adalberto Zaldívar Carrillo
