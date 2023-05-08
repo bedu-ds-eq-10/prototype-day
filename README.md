@@ -1,3 +1,7 @@
 # BEDU Prototype Day Project
-Team 9
 Intraday trading
+
+Team 9
+- Lourdes Guerrero Guerrero,
+- Marcos Cuellar Comas y
+- Jorge Adalberto Zaldívar Carrillo
